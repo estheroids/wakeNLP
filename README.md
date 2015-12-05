@@ -16,5 +16,5 @@ conda install nltk
 
 Then `cd` into the proper directory and start 'er up with
 ```
-ipython notebook wake.nlp
+ipython notebook wake.ipynb
 ```
